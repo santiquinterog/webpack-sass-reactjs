@@ -1,4 +1,4 @@
-# webpack-sass-vanillajs
+# webpack-sass-reactjs
 
 Using Sass + vanilla js + Webpack
 
